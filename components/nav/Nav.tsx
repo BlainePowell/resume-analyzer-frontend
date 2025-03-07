@@ -10,7 +10,7 @@ const Nav = () => (
         </h1>
       </div>
       <a
-        href="https://www.google.com"
+        href="https://github.com/BlainePowell/resume-analyzer-ai-backend"
         target="_blank"
         rel="noopener noreferrer"
         className="cursor-pointer relative rounded px-5 py-2.5 overflow-hidden group bg-[#3BC3A4] relative hover:bg-gradient-to-r hover:from-[#3BC3A4] hover:to-[#1F9C8D] text-white hover:ring-2 hover:ring-offset-2 hover:ring-[#3BC3A4] transition-all ease-out duration-300"
