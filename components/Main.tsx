@@ -63,8 +63,8 @@ const Main = () => {
   };
 
   return (
-    <div className="p-6 bg-gray-100 w-screen flex flex-col items-center py-24 max-w-[2000px]">
-      <h1 className="text-xl font-bold mb-4">
+    <div className="p-6 bg-gray-100 w-full flex flex-col items-center py-32 max-w-[2000px]">
+      <h1 className="text-2xl font-bold mb-4">
         Upload Your Resume for AI Analysis
       </h1>
       <DragAndDropFileUpload
